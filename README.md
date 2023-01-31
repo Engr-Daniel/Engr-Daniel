@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Engr-Daniel
 - 👀 I’m interested in Data Science and its subsets
-- 🌱 I’m currently learning AWS machine learning on Udacity
+- 🌱 I’m currently interning as Data Engineer in Hamoye AI
 - 💞️ I’m looking to collaborate on Data science Projects, internships and jobs.
 - 📫 How to reach me: https://www.linkedin.com/in/daniel-oyewale-845178234/
 
