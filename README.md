@@ -5,6 +5,7 @@
 Passionate about leveraging data to drive insights and solutions. Skilled in Python, SQL, R, Excel, and Tableau, with a proven track record of delivering impactful projects in diverse domains. Dedicated to continuous learning and innovation, I thrive on solving complex problems and turning data into actionable intelligence.
 
 🌟 AI Enthusiast 🌟
+
 I am an AI ethusiast, and due to my background in Electrical and Electronics Engineering, I have a vision of bring AI and Embedded electronics together in a way superior than what we have presently.
 
 🌟 Mentoring and Teaching Enthusiast 🌟
@@ -14,6 +15,7 @@ I am a Rising talent committed to sharing knowledge and empowering others in the
 Let's connect and learn together! 🚀
 
 [LinkedIn](https://www.linkedin.com/in/daniel-oyewale/) 
+
 [Portfolio](https://www.datacamp.com/portfolio/iamdaniel)
 
 <!---
