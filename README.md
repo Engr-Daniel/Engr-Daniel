@@ -1,6 +1,6 @@
 <img width="492" alt="Dan" src="https://github.com/Engr-Daniel/Engr-Daniel/assets/103637488/ffcc4b65-8170-49e2-8d21-bd7ae4c3089f">
 
-👨‍💻 Data Scientist | Python 🐍 | SQL | R | Excel 📊 | Tableau 📈
+👨‍💻 Data Scientist | Python 🐍 | SQL | R | Excel 📊 | Tableau 📈 | AI and Automation | Energy Sustainability
 
 Passionate about leveraging data to drive insights and solutions. Skilled in Python, SQL, R, Excel, and Tableau, with a proven track record of delivering impactful projects in diverse domains. Dedicated to continuous learning and innovation, I thrive on solving complex problems and turning data into actionable intelligence.
 
